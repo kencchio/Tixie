@@ -2,7 +2,7 @@
 
 A command-line Python helper for helpdesk technicians. When a user calls with a network problem,
 Tixie checks their public IP situation and writes a **ready-to-paste support ticket**.
-Made by **BaThreeBonia** for DEVASC Project Activity 3 (Option 2: IPv4/IPv6 Address Application).
+Made by **BaThreeBonia** for DEVASC Project Activity 3
 
 ## What it does
 
@@ -99,4 +99,4 @@ Another team member reviews it before it's merged.
 
 - Ken Sarji Ortega (scrum leader)
 - Jon Christian Bobis (recorder)
-- Miko Andrei Pelpinosas (architecture owner, on vacation during this activity)
+- Miko Andrei Pelpinosas (architecture owner)
